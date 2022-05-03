@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+## 你好！我是刘亦闻。
 
-You can use the [editor on GitHub](https://github.com/EvaLiuYW/EvaLiu.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+上海交通大学 工业设计 大二在读
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2001.9 
 
-### Markdown
+13918984330 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+EvaLiuYW@126.com
 
-```markdown
-Syntax highlighted code block
+           
 
-# Header 1
-## Header 2
-### Header 3
+### 教育经历
 
-- Bulleted
-- List
+2020- 
+上海交通大学工业设计
+2017-2020 
+上海交通大学附属中学
+2013-2017 
+复旦大学第二附属中学
+2008-2013 
+上海市虹口区红旗小学
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### 个人简介
 
-### Jekyll Themes
+        我是一个主观能动性很强，做事沉静细致，敢于挑战，乐于创造的人。
+        我学习用功，成绩优秀。GPA 3.98，学积分91.7，成绩排名专业第三。
+        我爱好摄影、弹唱、运动健身，喜欢逛小红书、豆瓣等社交软件了解潮流趋势。也会经营自己的社交账号，发布个人vlog视频等。
+        我擅长可视化，在学校的社团及学生组织中，通常担任宣传部干部，制作宣传推送及海报、拍摄新闻现场照/演员定妆照/校园风景照，剪辑视频等等。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EvaLiuYW/EvaLiu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### 主要经历
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+      渔水源信息科技有限公司 实习
+       “未事咨询” 趋势研究训练营
+      上海交通大学F2043201班长
+      “南洋通讯社”影像部首席摄影
+      阿卡贝拉清唱社
+      Hacapakka人声乐团团长
+      “机遇·未来”广西三江中学
+      暑期支教夏令营
+      澳大利亚悉尼&墨尔本游学
+      北大、清华、港大、港科大
+      港中文等大学参观访问
+
+   
+### 所获荣誉
+     上海交通大学设计学院2020学年
+       A等奖学金&“光华”冠名奖学金获得
+      上海交通大学设计学院“三好学生”
+      第二届“美丽中国·青春行动”三棵树
+      大学生环保创意大赛 全国银奖
+
+
+
+
+
